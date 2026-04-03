@@ -1,5 +1,7 @@
 # Ejercicio 10 - TP2 - Taller de Lenguajes
 
+## Aitor Daniel Petriz Otaño 018764/0
+
 Este proyecto contiene la resolución del Ejercicio 10, incluyendo las tablas de posiciones por ronda y la tabla final.
 
 ## Estructura del Proyecto
